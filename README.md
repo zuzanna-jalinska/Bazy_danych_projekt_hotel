@@ -1,10 +1,10 @@
 # Bazy_danych_projekt_hotel
 Projekt na zaliczenie - System zarządzania hotelem
 
-Autorka: Zuzanna Jalińska
-Logowanie na serwerze: `s208355`
-Nazwa bazy: `projekt_hotel`
-Adres interfejsu (WWW): [http://172.20.2.84/~s208355/hotel.php](http://172.20.2.84/~s208355/hotel.php)
+Autorka: Zuzanna Jalińska  
+Logowanie na serwerze: `s208355` 
+Nazwa bazy: `projekt_hotel`  
+Adres interfejsu (WWW): [http://172.20.2.84/~s208355/hotel.php](http://172.20.2.84/~s208355/hotel.php)  
 
 ## 1. Opis bazy danych:
 Projekt przedstawia relacyjną bazę danych, która wspomaga pracę recepcji hotelu. System przechowuje informacje o gościach, pokojach i pracownikach. Tabela `Rezerwacje` jest głównym punktem systemu, łączy ona wyżej wspomniane tabele za pomocą mechanizmu kluczy obcych (`FOREIGN KEY`)
