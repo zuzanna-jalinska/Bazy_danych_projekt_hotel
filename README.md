@@ -2,8 +2,8 @@
 Projekt na zaliczenie - System zarządzania hotelem
 
 Autorka: Zuzanna Jalińska  
-Logowanie na serwerze: `s208355` 
-Nazwa bazy: `projekt_hotel`     
+Logowanie na serwerze: `s208355`  
+Nazwa bazy: `projekt_hotel`  
 Adres interfejsu (WWW): [http://172.20.2.84/~s208355/hotel.php](http://172.20.2.84/~s208355/hotel.php)  
 
 ## 1. Opis bazy danych:
